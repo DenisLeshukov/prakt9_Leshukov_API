@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Leshu\\source\\repos\\prakt8_leshukov\\",
+  "WorkspaceRootPath": "C:\\Users\\st310-05\\Desktop\\prakt9_Leshukov\\prakt8_Leshukov_Trpo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A92EA683-74EF-4A12-B4D9-7D0C51E43785}|prakt8_leshukov.csproj|c:\\users\\leshu\\source\\repos\\prakt8_leshukov\\controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A92EA683-74EF-4A12-B4D9-7D0C51E43785}|prakt8_leshukov.csproj|c:\\users\\st310-05\\desktop\\prakt9_leshukov\\prakt8_leshukov_trpo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92EA683-74EF-4A12-B4D9-7D0C51E43785}|prakt8_leshukov.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A92EA683-74EF-4A12-B4D9-7D0C51E43785}|prakt8_leshukov.csproj|c:\\users\\st310-05\\desktop\\prakt9_leshukov\\prakt8_leshukov_trpo\\controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A92EA683-74EF-4A12-B4D9-7D0C51E43785}|prakt8_leshukov.csproj|solutionrelative:controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A92EA683-74EF-4A12-B4D9-7D0C51E43785}|prakt8_leshukov.csproj|c:\\users\\leshu\\source\\repos\\prakt8_leshukov\\controllers\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A92EA683-74EF-4A12-B4D9-7D0C51E43785}|prakt8_leshukov.csproj|solutionrelative:controllers\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A92EA683-74EF-4A12-B4D9-7D0C51E43785}|prakt8_leshukov.csproj|c:\\users\\st310-05\\desktop\\prakt9_leshukov\\prakt8_leshukov_trpo\\services\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92EA683-74EF-4A12-B4D9-7D0C51E43785}|prakt8_leshukov.csproj|solutionrelative:services\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A92EA683-74EF-4A12-B4D9-7D0C51E43785}|prakt8_leshukov.csproj|c:\\users\\leshu\\source\\repos\\prakt8_leshukov\\models\\prakt8context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A92EA683-74EF-4A12-B4D9-7D0C51E43785}|prakt8_leshukov.csproj|solutionrelative:models\\prakt8context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A92EA683-74EF-4A12-B4D9-7D0C51E43785}|prakt8_leshukov.csproj|c:\\users\\st310-05\\desktop\\prakt9_leshukov\\prakt8_leshukov_trpo\\models\\leshukovdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92EA683-74EF-4A12-B4D9-7D0C51E43785}|prakt8_leshukov.csproj|solutionrelative:models\\leshukovdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A92EA683-74EF-4A12-B4D9-7D0C51E43785}|prakt8_leshukov.csproj|C:\\Users\\st310-05\\Desktop\\prakt9_Leshukov\\prakt8_Leshukov_Trpo\\controllers\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92EA683-74EF-4A12-B4D9-7D0C51E43785}|prakt8_leshukov.csproj|solutionrelative:controllers\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,47 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Prakt8Context.cs",
-              "DocumentMoniker": "C:\\Users\\Leshu\\source\\repos\\prakt8_leshukov\\Models\\Prakt8Context.cs",
-              "RelativeDocumentMoniker": "Models\\Prakt8Context.cs",
-              "ToolTip": "C:\\Users\\Leshu\\source\\repos\\prakt8_leshukov\\Models\\Prakt8Context.cs",
-              "RelativeToolTip": "Models\\Prakt8Context.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAD4vxYAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "LeshukovDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\prakt9_Leshukov\\prakt8_Leshukov_Trpo\\Models\\LeshukovDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\LeshukovDbContext.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\prakt9_Leshukov\\prakt8_Leshukov_Trpo\\Models\\LeshukovDbContext.cs",
+              "RelativeToolTip": "Models\\LeshukovDbContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA7wCgAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T16:09:47.938Z",
+              "WhenOpened": "2026-11-11T04:15:36.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\prakt9_Leshukov\\prakt8_Leshukov_Trpo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\prakt9_Leshukov\\prakt8_Leshukov_Trpo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAADQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T04:14:59.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBService.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\prakt9_Leshukov\\prakt8_Leshukov_Trpo\\Services\\DBService.cs",
+              "RelativeDocumentMoniker": "Services\\DBService.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\prakt9_Leshukov\\prakt8_Leshukov_Trpo\\Services\\DBService.cs",
+              "RelativeToolTip": "Services\\DBService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T04:10:00.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Tasks.cs",
-              "DocumentMoniker": "C:\\Users\\Leshu\\source\\repos\\prakt8_leshukov\\Controllers\\Tasks.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\prakt9_Leshukov\\prakt8_Leshukov_Trpo\\Controllers\\Tasks.cs",
               "RelativeDocumentMoniker": "Controllers\\Tasks.cs",
-              "ToolTip": "C:\\Users\\Leshu\\source\\repos\\prakt8_leshukov\\Controllers\\Tasks.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\prakt9_Leshukov\\prakt8_Leshukov_Trpo\\Controllers\\Tasks.cs",
               "RelativeToolTip": "Controllers\\Tasks.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAUwEcAAAAeAAAAAAAAAA==",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-04T13:49:54.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Auth.cs",
-              "DocumentMoniker": "C:\\Users\\Leshu\\source\\repos\\prakt8_leshukov\\Controllers\\Auth.cs",
+              "DocumentMoniker": "C:\\Users\\st310-05\\Desktop\\prakt9_Leshukov\\prakt8_Leshukov_Trpo\\Controllers\\Auth.cs",
               "RelativeDocumentMoniker": "Controllers\\Auth.cs",
-              "ToolTip": "C:\\Users\\Leshu\\source\\repos\\prakt8_leshukov\\Controllers\\Auth.cs",
+              "ToolTip": "C:\\Users\\st310-05\\Desktop\\prakt9_Leshukov\\prakt8_Leshukov_Trpo\\Controllers\\Auth.cs",
               "RelativeToolTip": "Controllers\\Auth.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAIwFMAAABCAAAAAAAAAA==",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCQAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-02T14:36:29.175Z",
               "EditorCaption": ""

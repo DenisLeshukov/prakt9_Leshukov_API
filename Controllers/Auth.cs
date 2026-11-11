@@ -15,7 +15,7 @@ namespace prakt8_leshukov.Controllers
     public class Auth : ControllerBase
     {
         private readonly List<User> _users;
-        private Prakt8Context _db = DBService.Instance.Context;
+        private LeshukovDbContext _db = DBService.Instance.Context;
         private readonly IPasswordHasher<User> _hasher;
         private readonly IConfiguration _cofiguration;
        
@@ -37,7 +37,8 @@ namespace prakt8_leshukov.Controllers
             var claims = new[]
             {
                 new Claim(ClaimTypes.Name, user.Login),
-                new Claim(ClaimTypes.Role, user.Role)
+                new Claim(ClaimTypes.Role, user.Role),
+                new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
 
             };
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_cofiguration["Jwt:Key"]!));

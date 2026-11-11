@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\prakt8_leshukov.props" />
+</Project>

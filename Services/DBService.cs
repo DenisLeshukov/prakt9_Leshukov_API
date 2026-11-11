@@ -4,9 +4,9 @@ namespace prakt8_leshukov.Services
 {
     public class DBService
     {
-        private Prakt8Context context;
+        private LeshukovDbContext context;
         private static DBService? instance;
-        public Prakt8Context Context => context;
+        public LeshukovDbContext Context => context;
         public static DBService Instance
         {
             get
@@ -19,7 +19,7 @@ namespace prakt8_leshukov.Services
         }
         private DBService()
         {
-            context = new Prakt8Context();
+            context = new LeshukovDbContext( );
         }
     }
 }

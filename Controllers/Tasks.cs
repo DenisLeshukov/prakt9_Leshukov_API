@@ -14,7 +14,7 @@ namespace prakt8_leshukov.Controllers
     [ApiController]
     public class Tasks : ControllerBase
     {
-        private Prakt8Context _db = DBService.Instance.Context;
+        private LeshukovDbContext _db = DBService.Instance.Context;
         [HttpGet("all")]
         [Authorize(Roles = "Admin")]
         public IActionResult GetAll()
@@ -49,7 +49,12 @@ namespace prakt8_leshukov.Controllers
             }
             else
             {
-                return Ok(_db.Tasks.FirstOrDefault(t => t.Id == id)); 
+                var task = _db.Tasks.FirstOrDefault(t => t.Id == id);
+                if (task == null)
+                {
+                    return NotFound("Задача не найдена");
+                }
+                return Ok(task); 
             }
             
             
